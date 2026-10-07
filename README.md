@@ -10,9 +10,9 @@ This repository showcases practical, high-level implementation of cloud security
 Securing the perimeter starts with robust identity controls. I implemented strict access policies utilizing Microsoft Entra ID.
 
 *   **Role-Based Access Control (RBAC):** Applied least privilege principles by managing assignments at the Resource Group level.
-    ![RBAC Configuration](https://github.com/user-attachments/assets/bee1e988-22c3-4842-91ed-d8d1236b1659)
+    ![RBAC Configuration](<img width="2854" height="1472" alt="Gemini_Generated_Image_q2ivnqq2ivnqq2iv" src="https://github.com/user-attachments/assets/fe38edbe-19fe-45c7-b9bb-e8ad713103ef" />)
 *   **Privileged Identity Management (PIM):** Configured time-bound role assignments to minimize the attack surface for highly privileged accounts.
-    ![PIM Configuration](https://github.com/user-attachments/assets/207e7757-7579-4ddd-9ea4-f0426679e582)
+    ![PIM Configuration](<img width="2854" height="1472" alt="Gemini_Generated_Image_z5fs06z5fs06z5fs" src="https://github.com/user-attachments/assets/52f31c28-cec3-4081-b449-1ba7fa0936a8" />
 *   **Microsoft Graph API Security:** Explicitly granted Admin Consent for necessary, scoped permissions.
     ![Graph API Admin Consent](<img width="1920" height="627" alt="رثص" src="https://github.com/user-attachments/assets/4fb2bde3-3597-4745-b666-954ec5f320e3" />)
 
