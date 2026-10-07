@@ -1,5 +1,7 @@
 #  Azure Cloud Security & AI-Driven SOC Operations Portfolio
-Just wrapped up a comprehensive, end-to-end cloud security engineering, AI-driven SOC operations and threat detection lab that I built, deployed, and tested from scratch! 🛡️☁️
+
+Just wrapped up a comprehensive, end-to-end cloud security engineering, AI-driven SOC operations and threat detection lab that I built, deployed, and tested from scratch!
+
 This repository showcases practical, high-level implementation of cloud security controls, defensive architecture, and AI-powered SOC analyst workflows within Microsoft Azure.
 ---
 
