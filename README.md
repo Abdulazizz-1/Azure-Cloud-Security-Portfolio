@@ -14,7 +14,7 @@ Securing the perimeter starts with robust identity controls. I implemented stric
 *   **Privileged Identity Management (PIM):** Configured time-bound role assignments to minimize the attack surface for highly privileged accounts.
     ![PIM Configuration](https://github.com/user-attachments/assets/207e7757-7579-4ddd-9ea4-f0426679e582)
 *   **Microsoft Graph API Security:** Explicitly granted Admin Consent for necessary, scoped permissions.
-    ![Graph API Admin Consent](https://github.com/user-attachments/assets/c910cafb-78da-4be8-b994-358bc89bed5e)
+    ![Graph API Admin Consent](<img width="1920" height="627" alt="رثص" src="https://github.com/user-attachments/assets/4fb2bde3-3597-4745-b666-954ec5f320e3" />)
 
 ---
 
