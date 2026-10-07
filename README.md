@@ -1,7 +1,6 @@
-#  Azure Cloud Security & SOC Operations Portfolio
-
-Welcome to my technical portfolio demonstrating hands-on experience in designing, implementing, and monitoring security controls within Microsoft Azure. This project showcases practical implementation of cloud security engineering and SOC analyst workflows, reflecting advanced skills in securing cloud environments and proactively hunting threats.
-
+#  Azure Cloud Security & AI-Driven SOC Operations Portfolio
+Just wrapped up a comprehensive, end-to-end cloud security engineering, AI-driven SOC operations and threat detection lab that I built, deployed, and tested from scratch! 🛡️☁️
+This repository showcases practical, high-level implementation of cloud security controls, defensive architecture, and AI-powered SOC analyst workflows within Microsoft Azure.
 ---
 
 ## 1. Identity & Access Management (IAM & PIM)
@@ -68,15 +67,15 @@ Securing modern deployment models including Containers and Serverless functions.
 
 ---
 
-## 6. Monitoring, Logging & SOC Operations (Microsoft Sentinel)
+##  6. Monitoring, Logging & AI-Driven SOC Operations (Microsoft Sentinel)
 
-The core of security operations: ensuring complete visibility and automated threat detection.
+The core of security operations: ensuring complete visibility, behavioral analysis, and AI-powered automated threat detection.
 
 *   **Log Analytics Workspace:** Configured custom log tables to ingest specific application data.
     ![Custom Log Table](https://github.com/user-attachments/assets/2a440203-3d7e-4d24-a39e-95aaa9c3714e)
 *   **Data Connectors (AMA):** Integrated both Windows and Linux security events into Microsoft Sentinel using the Azure Monitor Agent (AMA).
     ![Windows AMA Connector](https://github.com/user-attachments/assets/fbab4857-dcd8-4480-b4d7-64f8faf6ebba)
     ![Linux AMA Connector](https://github.com/user-attachments/assets/c543636b-2ee8-4c26-9128-03f7ca3385c3)
-*   **Threat Detection (KQL):** Created and scheduled custom analytics rules in Microsoft Sentinel to proactively hunt for threats.
+*   **AI-Powered Threat Detection & KQL:** Leveraged built-in machine learning capabilities alongside custom scheduled analytics rules in Microsoft Sentinel to proactively hunt for threats and behavioral anomalies.
     ![Sentinel Analytics Rule](https://github.com/user-attachments/assets/09de465c-00fd-45ef-941a-b58d08841f71)
     ![Sentinel Logs Query](https://github.com/user-attachments/assets/69673df3-a4ea-499f-bc0d-5cf9b89a7ff4)
